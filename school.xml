@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<schoolclass>
+    <student hobby = "cycling" sex = "M" YOB = "2001">
+        <name> John Richardson </name>
+        <topic> Math </topic>
+        <topic> Physics </topic>
+        <tutor> Mrs. Marton </tutor>
+    </student>
+    <student hobby = "movies" sex = "F" YOB = "2000">
+        <name> Maria Clothier </name>
+        <topic> Chemistry </topic>
+        <tutor> Mrs. Hall </tutor>
+    </student>
+    <student hobby = "swimming" sex = "F" YOB = "2003">
+		<name> Vicky Byron </name>
+        <topic> History </topic>
+        <topic> Literature </topic>
+        <tutor> Mrs. Clinton </tutor>
+    </student>
+    <student hobby = "cycling" sex = "F" YOB = "2005">
+        <name> Gina Heyen </name>
+        <topic> Engineering </topic>
+        <topic> Math </topic>
+        <tutor> Mrs. Marton </tutor>
+    </student>
+</schoolclass>
